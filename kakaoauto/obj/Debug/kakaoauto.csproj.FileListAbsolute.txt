@@ -1,0 +1,10 @@
+C:\C#project\kakaoauto\kakaoauto\bin\Debug\kakaoauto.exe.config
+C:\C#project\kakaoauto\kakaoauto\bin\Debug\kakaoauto.exe
+C:\C#project\kakaoauto\kakaoauto\bin\Debug\kakaoauto.pdb
+C:\C#project\kakaoauto\kakaoauto\obj\Debug\kakaoauto.csprojResolveAssemblyReference.cache
+C:\C#project\kakaoauto\kakaoauto\obj\Debug\kakaoauto.Form1.resources
+C:\C#project\kakaoauto\kakaoauto\obj\Debug\kakaoauto.Properties.Resources.resources
+C:\C#project\kakaoauto\kakaoauto\obj\Debug\kakaoauto.csproj.GenerateResource.Cache
+C:\C#project\kakaoauto\kakaoauto\obj\Debug\kakaoauto.exe
+C:\C#project\kakaoauto\kakaoauto\obj\Debug\kakaoauto.pdb
+C:\C#project\kakaoauto\kakaoauto\obj\Debug\kakaoauto.Form2.resources
